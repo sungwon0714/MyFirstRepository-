@@ -21,6 +21,6 @@
 * * *
 
 
-<img width'' height'' src='./png/물개png.jfif'></img>
+<img width'' height'' src='./png/물개1.png'></img>
 
 
