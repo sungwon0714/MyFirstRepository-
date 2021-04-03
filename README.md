@@ -21,6 +21,5 @@
 * * *
 
 
-<img width="" height="" src=".//<물개.png"></img>
-
+![물개](./image/물개.png)
 
