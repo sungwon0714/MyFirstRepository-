@@ -21,6 +21,6 @@
 * * *
 
 
-<img width="" height="" src="./png/<사막.png.jpg"></img>
+<img width="" height="" src=" ./png/<사막.png."></img>
 
 
